@@ -1,20 +1,25 @@
 # Prachi Gupta
 
-Software Engineer specializing in **backend systems, cloud-native platforms, and AI-driven applications**.
+Backend-focused Software Engineer building **scalable systems, cloud-native platforms, and AI-powered applications**.
 
 🎓 **M.S. Software Engineering** @ San José State University (GPA: 3.9/4.0)  
-💼 **Ex-Infosys | Ex-TCS** — 4+ years building enterprise-scale software  
+💼 **Ex-Infosys | Ex-TCS** — 4+ years in enterprise & platform engineering  
 📍 Fremont, CA  
 
-I build **production-grade systems** with a strong focus on:
-- Scalable backend & API design
-- Distributed and cloud-native architectures
-- AI systems (RAG, semantic search, recommendations)
-- Reliability, observability, and clean system design
+I enjoy working at the intersection of **systems, scale, and intelligence** — turning complex requirements into reliable, production-ready software.
 
 ---
 
-## 🧠 Technical Expertise
+## 🔍 What I Work On
+
+- Designing **clean, scalable backend APIs**
+- Building **distributed and cloud-native systems**
+- Developing **AI systems** (RAG, semantic search, recommendations)
+- Shipping software with strong **reliability, observability, and ownership**
+
+---
+
+## 🧠 Technical Toolkit
 
 ### Languages
 `Python` `Go` `Java` `C++` `JavaScript` `SQL`
@@ -37,24 +42,24 @@ I build **production-grade systems** with a strong focus on:
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experience
 
 ### Associate Consultant — Infosys
-- Developed and deployed **microservice-based REST APIs** for enterprise platforms
-- Migrated applications from **on-prem → cloud**, improving scalability and reducing operational overhead
-- Implemented **CI/CD pipelines** and proactive monitoring using Splunk
-- Led a small engineering team to improve release reliability and system stability
+- Built and deployed **microservice-based REST APIs** for enterprise platforms
+- Led **on-prem → cloud migrations**, improving scalability and reducing ops overhead
+- Implemented **CI/CD pipelines** and proactive monitoring with Splunk
+- Mentored engineers and improved system reliability across releases
 
 ### System Engineer — Tata Consultancy Services (TCS)
 - Designed **3-tier architectures** across hybrid integration environments
-- Optimized API performance and backend transformations, reducing latency and failures
+- Optimized backend services to reduce latency and failure rates
 - Automated monitoring and incident detection, achieving **95% SLA compliance**
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Projects
 
-### 🧩 PeopleSoft – Employee Lifecycle Manager
+### 🧩 PeopleSoft — Employee Lifecycle Manager
 **Enterprise HR platform with secure APIs and AI-powered automation**
 
 - Built **70+ REST APIs** using Go (Gin) with **JWT + Auth0 OAuth**
@@ -63,11 +68,11 @@ I build **production-grade systems** with a strong focus on:
 - Integrated an **LLM-powered chatbot** (Llama 3.3 70B) for natural-language HR workflows
 - Implemented PostgreSQL schema design, Dockerized services, and Cypress E2E testing
 
-🔗 [**Pinned Repository**](https://github.com/Prachii26/PeopleSoft)
+🔗 **Repo:** https://github.com/Prachii26/PeopleSoft
 
 ---
 
-### 📚 DeepRead AI – Research Discovery & Summarization
+### 📚 DeepRead AI — Research Discovery & Summarization
 **Large-scale AI system for semantic search, RAG, and recommendations**
 
 - Indexed **70,000+ ArXiv papers** using **FAISS vector search**
@@ -76,22 +81,22 @@ I build **production-grade systems** with a strong focus on:
 - Designed personalized paper recommendations using **BERT embeddings**
 - Exposed AI services via **FastAPI** with optimized retrieval pipelines
 
-🔗 [**Pinned Repository**](https://github.com/Prachii26/DeepReadAI)
+🔗 **Repo:** https://github.com/Prachii26/DeepReadAI
 
 ---
 
-## 📌 What I’m Interested In
+## 🧭 Current Interests
 - Backend & Platform Engineering
 - Distributed Systems & Cloud Infrastructure
 - AI Systems, Search, and RAG Pipelines
-- Building scalable, reliable production software
+- Building reliable software at scale
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let’s Connect
 - 🔗 LinkedIn: https://www.linkedin.com/in/prachigupta2610  
-- 📧 Email: prachi.gupta01@sjsu.edu, prachigupta2610@gmail.com
+- 📧 Email: prachi.gupta01@sjsu.edu | prachigupta2610@gmail.com  
 
 ---
 
-⭐ If you’re a recruiter or engineer, check out my pinned repositories — they reflect how I design, build, and ship real-world systems.
+⭐ If you’re a recruiter or engineer, feel free to explore my pinned repositories — they reflect how I think about systems, scale, and shipping software.
