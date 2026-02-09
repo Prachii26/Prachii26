@@ -63,7 +63,7 @@ I build **production-grade systems** with a strong focus on:
 - Integrated an **LLM-powered chatbot** (Llama 3.3 70B) for natural-language HR workflows
 - Implemented PostgreSQL schema design, Dockerized services, and Cypress E2E testing
 
-🔗 **Pinned Repository**
+🔗 [**Pinned Repository**](https://github.com/Prachii26/PeopleSoft)
 
 ---
 
@@ -76,7 +76,7 @@ I build **production-grade systems** with a strong focus on:
 - Designed personalized paper recommendations using **BERT embeddings**
 - Exposed AI services via **FastAPI** with optimized retrieval pipelines
 
-🔗 **Pinned Repository**
+🔗 [**Pinned Repository**](https://github.com/Prachii26/DeepReadAI)
 
 ---
 
